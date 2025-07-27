@@ -1,0 +1,54 @@
+{
+    "cumulative_timesteps": 32405222,
+    "cumulative_model_updates": 1926,
+    "policy_average_reward": 3266.8432708318815,
+    "epoch": 321,
+    "ts_since_last_save": 1000196,
+    "reward_running_stats": {
+        "mean": [
+            65.39930799745143
+        ],
+        "var": [
+            204422644.68803367
+        ],
+        "shape": [
+            1
+        ],
+        "count": 48600
+    },
+    "wandb_run_id": "negn1vnt",
+    "wandb_project": "rlgym-ppo",
+    "wandb_entity": "nardonej3-rlbotofficial",
+    "wandb_group": "unnamed-runs",
+    "wandb_config": {
+        "n_proc": 32,
+        "min_inference_size": 29,
+        "timestep_limit": 1000000000,
+        "exp_buffer_size": 300000,
+        "ts_per_iteration": 100000,
+        "standardize_returns": true,
+        "standardize_obs": false,
+        "policy_layer_sizes": [
+            1024,
+            1024,
+            512,
+            512
+        ],
+        "critic_layer_sizes": [
+            1024,
+            1024,
+            512,
+            512
+        ],
+        "ppo_epochs": 2,
+        "ppo_batch_size": 100000,
+        "ppo_minibatch_size": 50000,
+        "ppo_ent_coef": 0.01,
+        "ppo_clip_range": 0.2,
+        "gae_lambda": 0.95,
+        "gae_gamma": 0.99,
+        "policy_lr": 0.0001,
+        "critic_lr": 0.0001,
+        "shm_buffer_size": 8192
+    }
+}

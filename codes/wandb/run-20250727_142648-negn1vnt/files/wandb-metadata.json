@@ -1,0 +1,40 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.0",
+  "startedAt": "2025-07-27T18:26:48.235007Z",
+  "program": "C:\\Users\\jishy\\Desktop\\Coding Projects\\DS Project\\DS_Individual_Project_Example\\codes\\main.py",
+  "codePath": "codes\\main.py",
+  "codePathLocal": "main.py",
+  "git": {
+    "remote": "https://github.com/pangwit/DS_Individual_Project_Example.git",
+    "commit": "cf95ad06201c92f716b4e1182b8ed5e289cc3fea"
+  },
+  "email": "nardonej3@wit.edu",
+  "root": "C:\\Users\\jishy\\Desktop\\Coding Projects\\DS Project\\DS_Individual_Project_Example\\codes",
+  "host": "DESKTOP-D1HMQRS",
+  "executable": "C:\\Users\\jishy\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3060 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1023307624448",
+      "used": "931798441984"
+    }
+  },
+  "memory": {
+    "total": "34293710848"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3060 Ti",
+      "memoryTotal": "8589934592",
+      "cudaCores": 4864,
+      "architecture": "Ampere",
+      "uuid": "GPU-a038da6c-eaf2-e1e0-5cf7-785afc6d756d"
+    }
+  ],
+  "cudaVersion": "12.9",
+  "writerId": "jiw0zomv06a9a3hxg28ovfw35ztg4sb7"
+}
