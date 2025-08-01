@@ -15,7 +15,7 @@ This project trains a Rocket League bot with custom reward functions (goals, bal
 The policy reward is the cumulative feedback signal that your PPO agent receives each episode. It reflects how well the agent is achieving your defined objectives (e.g., scoring goals, hitting the ball). You can plot this reward over training runs to see how learning progresses:
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/nardonej3atwit/Individual-DS-Project/blob/main/pictures/W%26B%20Chart%207_31_2025%2C%2011_04_46%20PM.png" alt="Policy Reward" style="width:45%;">
+  <img src="https://github.com/nardonej3atwit/Individual-DS-Project/blob/main/pictures/W%26B%20Chart%207_31_2025%2C%2011_05_04%20PM.png" alt="Policy Reward" style="width:45%;">
 </div>
 
 The pink line indicates the most recent run where I gave the agent a huge reward for hitting the ball and scoring, thhis is why it is so much higher than all the previous runs
