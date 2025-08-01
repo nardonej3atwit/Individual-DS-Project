@@ -18,4 +18,4 @@ The policy reward is the cumulative feedback signal that your PPO agent receives
   <img src="https://github.com/nardonej3atwit/Individual-DS-Project/blob/main/pictures/W%26B%20Chart%207_31_2025%2C%2011_05_04%20PM.png" alt="Policy Reward" style="width:45%;">
 </div>
 
-The pink line indicates the most recent run where I gave the agent a huge reward for hitting the ball and scoring, thhis is why it is so much higher than all the previous runs
+The pink line indicates the most recent run where I gave the agent a huge reward for hitting the ball and scoring, this is why it is so much higher than all the previous runs(seen at bottom of chart)
